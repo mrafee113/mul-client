@@ -1,0 +1,6 @@
+.idea/
+.git/
+.venv
+cookies.json
+chromedriver
+credentials.ini
